@@ -360,7 +360,7 @@ button:focus {
   height: 100%;
 }
 .Features-display{
-  display: none;
+  display: block;
   height: 100%;
   padding: 20px 0;
 }
@@ -423,6 +423,9 @@ button:focus {
   height: auto;
   background-color: #f2fefe;
   padding-bottom: 30px;
+}
+.special-features .container .sections-titles{
+  margin: 0 auto;
 }
  
 /* end special-features */
