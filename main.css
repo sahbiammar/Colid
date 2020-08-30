@@ -938,3 +938,24 @@ textarea:focus{
 
 } 
  
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .header-content-item1 {
+    height: 485px;
+  }
+  .header-content-item1 p { 
+    width: 80%;
+    font-size: 20px;
+  }
+  .header-content-item1 h1 {
+    font-size: 30px;
+  }
+} 
+    
+    
+    
+    
+    
+    
+    
+    
